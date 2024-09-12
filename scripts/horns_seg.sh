@@ -1,0 +1,11 @@
+python render.py --iteration 30000 \
+    -s /home/shenqiuhong/Downloads/llff-gs/horns/ \
+    -m ./output/horns-recon-only/ \
+    --skip_test \
+    --slackness 0.4 \
+    --view_num -1 \
+    --obj_num 1 \
+    --white_background \
+    --object_path inpaint_object_mask_255 \
+    --obj_id 1 \
+    -r 4 
