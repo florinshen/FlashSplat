@@ -12,7 +12,7 @@ National University of Singapore
 > This study addresses the challenge of accurately segmenting 3D Gaussian Splatting from 2D masks. Conventional methods often rely on iterative gradient descent to assign each Gaussian a unique label, leading to lengthy optimization and sub-optimal solutions. Instead, we propose a straightforward yet globally optimal solver for 3D-GS segmentation. The core insight of our method is that, with a reconstructed 3D-GS scene , the rendering of the 2D masks is essentially a linear function with respect to the labels of each Gaussian. As such, the optimal label assignment can be solved via linear programming in closed form. This solution capitalizes on the alpha blending characteristic of the splatting process for single step optimization. By incorporating the background bias in our objective function, our method shows superior robustness in 3D segmentation against noises. Remarkably, our optimization completes within 30 seconds, about 50x faster than the best existing methods.
 
 ### News
-**[2024.09.13]** FlashSplat's paper, paper and code are released.    
+**[2024.09.13]** FlashSplat's paper and code are released.    
 **[2024.07.01]** FlashSplat is accepted by **ECCV 2024**!
 
 ### Installation
