@@ -1,6 +1,6 @@
 
 ## FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally
-<img width="800" alt="teaser" src="https://github.com/user-attachments/assets/4634f9e5-5e0e-44bb-a393-a618552f4a01">
+<img width="800" alt="teaser" src="https://github.com/user-attachments/assets/6c8ececb-1969-43be-b8ba-b311385f8ade">
 
 [Qiuhong Shen](https://florinshen.github.io), [Xingyi Yang](https://adamdad.github.io/), [Xinchao Wang](https://sites.google.com/site/sitexinchaowang/)    
 National University of Singapore
